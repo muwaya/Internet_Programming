@@ -1,0 +1,868 @@
+{
+	"counties": [
+      {
+        "countyID": "1",
+        "e": "357111",
+        "n": "173970",
+        "name": "Avon",
+        "gridId": "1",
+        "wgs84Lat": "51.463067",
+        "wgs84Long": "-2.618760"
+      },
+      {
+        "countyID": "2",
+        "e": "506599",
+        "n": "243811",
+        "name": "Bedfordshire",
+        "gridId": "1",
+        "wgs84Lat": "52.082401",
+        "wgs84Long": "-0.445778"
+      },
+      {
+        "countyID": "3",
+        "e": "467185",
+        "n": "174604",
+        "name": "Berkshire",
+        "gridId": "1",
+        "wgs84Lat": "51.466427",
+        "wgs84Long": "-1.034214"
+      },
+      {
+        "countyID": "4",
+        "e": "481908",
+        "n": "215532",
+        "name": "Buckinghamshire",
+        "gridId": "1",
+        "wgs84Lat": "51.832405",
+        "wgs84Long": "-0.812738"
+      },
+      {
+        "countyID": "5",
+        "e": "537875",
+        "n": "277717",
+        "name": "Cambridgeshire",
+        "gridId": "1",
+        "wgs84Lat": "52.380141",
+        "wgs84Long": "0.024184"
+      },
+      {
+        "countyID": "6",
+        "e": "267015",
+        "n": "702266",
+        "name": "Central",
+        "gridId": "1",
+        "wgs84Lat": "56.194374",
+        "wgs84Long": "-4.144753"
+      },
+      {
+        "countyID": "7",
+        "e": "361634",
+        "n": "370146",
+        "name": "Cheshire",
+        "gridId": "1",
+        "wgs84Lat": "53.226962",
+        "wgs84Long": "-2.576147"
+      },
+      {
+        "countyID": "8",
+        "e": "454133",
+        "n": "522310",
+        "name": "Cleveland",
+        "gridId": "1",
+        "wgs84Lat": "54.593086",
+        "wgs84Long": "-1.163743"
+      },
+      {
+        "countyID": "9",
+        "e": "318625",
+        "n": "354455",
+        "name": "Clwyd",
+        "gridId": "1",
+        "wgs84Lat": "53.081093",
+        "wgs84Long": "-3.216274"
+      },
+      {
+        "countyID": "10",
+        "e": "175889",
+        "n": "65687",
+        "name": "Cornwall",
+        "gridId": "1",
+        "wgs84Lat": "50.448118",
+        "wgs84Long": "-5.158114"
+      },
+      {
+        "countyID": "11",
+        "e": "339034",
+        "n": "520032",
+        "name": "Cumbria",
+        "gridId": "1",
+        "wgs84Lat": "54.571813",
+        "wgs84Long": "-2.944546"
+      },
+      {
+        "countyID": "12",
+        "e": "425253",
+        "n": "355142",
+        "name": "Derbyshire",
+        "gridId": "1",
+        "wgs84Lat": "53.092894",
+        "wgs84Long": "-1.624363"
+      },
+      {
+        "countyID": "13",
+        "e": "272784",
+        "n": "92706",
+        "name": "Devon",
+        "gridId": "1",
+        "wgs84Lat": "50.720015",
+        "wgs84Long": "-3.803525"
+      },
+      {
+        "countyID": "14",
+        "e": "382464",
+        "n": "98014",
+        "name": "Dorset",
+        "gridId": "1",
+        "wgs84Lat": "50.781433",
+        "wgs84Long": "-2.250101"
+      },
+      {
+        "countyID": "15",
+        "e": "264619",
+        "n": "570764",
+        "name": "Dumfries and Galloway",
+        "gridId": "1",
+        "wgs84Lat": "55.012952",
+        "wgs84Long": "-4.118686"
+      },
+      {
+        "countyID": "16",
+        "e": "415166",
+        "n": "531771",
+        "name": "Durham",
+        "gridId": "1",
+        "wgs84Lat": "54.680771",
+        "wgs84Long": "-1.766304"
+      },
+      {
+        "countyID": "17",
+        "e": "224595",
+        "n": "236520",
+        "name": "Dyfed",
+        "gridId": "1",
+        "wgs84Lat": "51.999340",
+        "wgs84Long": "-4.556544"
+      },
+      {
+        "countyID": "18",
+        "e": "561112",
+        "n": "119525",
+        "name": "East Sussex",
+        "gridId": "1",
+        "wgs84Lat": "50.952643",
+        "wgs84Long": "0.292389"
+      },
+      {
+        "countyID": "19",
+        "e": "584712",
+        "n": "211648",
+        "name": "Essex",
+        "gridId": "1",
+        "wgs84Lat": "51.773022",
+        "wgs84Long": "0.675840"
+      },
+      {
+        "countyID": "20",
+        "e": "329365",
+        "n": "703574",
+        "name": "Fife",
+        "gridId": "1",
+        "wgs84Lat": "56.219469",
+        "wgs84Long": "-3.140603"
+      },
+      {
+        "countyID": "21",
+        "e": "387059",
+        "n": "214543",
+        "name": "Gloucestershire",
+        "gridId": "1",
+        "wgs84Lat": "51.829350",
+        "wgs84Long": "-2.189191"
+      },
+      {
+        "countyID": "22",
+        "e": "355136",
+        "n": "822696",
+        "name": "Grampian",
+        "gridId": "1",
+        "wgs84Lat": "57.292656",
+        "wgs84Long": "-2.746010"
+      },
+      {
+        "countyID": "23",
+        "e": "533221",
+        "n": "178613",
+        "name": "Greater London",
+        "gridId": "1",
+        "wgs84Lat": "51.490777",
+        "wgs84Long": "-0.082497"
+      },
+      {
+        "countyID": "24",
+        "e": "378565",
+        "n": "401204",
+        "name": "Greater Manchester",
+        "gridId": "1",
+        "wgs84Lat": "53.507082",
+        "wgs84Long": "-2.324659"
+      },
+      {
+        "countyID": "25",
+        "e": "367632",
+        "n": "-35443",
+        "name": "Guernsey",
+        "gridId": "1",
+        "wgs84Lat": "49.580582",
+        "wgs84Long": "-2.449075"
+      },
+      {
+        "countyID": "26",
+        "e": "334157",
+        "n": "205022",
+        "name": "Gwent",
+        "gridId": "1",
+        "wgs84Lat": "51.740017",
+        "wgs84Long": "-2.954973"
+      },
+      {
+        "countyID": "27",
+        "e": "252845",
+        "n": "350834",
+        "name": "Gwynedd",
+        "gridId": "1",
+        "wgs84Lat": "53.034484",
+        "wgs84Long": "-4.196014"
+      },
+      {
+        "countyID": "28",
+        "e": "447185",
+        "n": "122198",
+        "name": "Hampshire",
+        "gridId": "1",
+        "wgs84Lat": "50.997248",
+        "wgs84Long": "-1.328988"
+      },
+      {
+        "countyID": "29",
+        "e": "368470",
+        "n": "250390",
+        "name": "Hereford and Worcester",
+        "gridId": "1",
+        "wgs84Lat": "52.150886",
+        "wgs84Long": "-2.462237"
+      },
+      {
+        "countyID": "30",
+        "e": "521203",
+        "n": "215906",
+        "name": "Hertfordshire",
+        "gridId": "1",
+        "wgs84Lat": "51.828631",
+        "wgs84Long": "-0.242592"
+      },
+      {
+        "countyID": "31",
+        "e": "202961",
+        "n": "841862",
+        "name": "Highland",
+        "gridId": "1",
+        "wgs84Lat": "57.424251",
+        "wgs84Long": "-5.283287"
+      },
+      {
+        "countyID": "32",
+        "e": "498535",
+        "n": "431350",
+        "name": "Humberside",
+        "gridId": "1",
+        "wgs84Lat": "53.769183",
+        "wgs84Long": "-0.506517"
+      },
+      {
+        "countyID": "33",
+        "e": "231210",
+        "n": "480798",
+        "name": "Isle of Man",
+        "gridId": "1",
+        "wgs84Lat": "54.195079",
+        "wgs84Long": "-4.588808"
+      },
+      {
+        "countyID": "34",
+        "e": "446500",
+        "n": "87567",
+        "name": "Isle of Wight",
+        "gridId": "1",
+        "wgs84Lat": "50.685906",
+        "wgs84Long": "-1.343134"
+      },
+      {
+        "countyID": "35",
+        "e": "389595",
+        "n": "-58366",
+        "name": "Jersey",
+        "gridId": "1",
+        "wgs84Lat": "49.375180",
+        "wgs84Long": "-2.144652"
+      },
+      {
+        "countyID": "36",
+        "e": "590311",
+        "n": "154644",
+        "name": "Kent",
+        "gridId": "1",
+        "wgs84Lat": "51.259187",
+        "wgs84Long": "0.726140"
+      },
+      {
+        "countyID": "37",
+        "e": "358100",
+        "n": "440831",
+        "name": "Lancashire",
+        "gridId": "1",
+        "wgs84Lat": "53.861996",
+        "wgs84Long": "-2.638575"
+      },
+      {
+        "countyID": "38",
+        "e": "468743",
+        "n": "309351",
+        "name": "Leicestershire",
+        "gridId": "1",
+        "wgs84Lat": "52.677509",
+        "wgs84Long": "-0.984684"
+      },
+      {
+        "countyID": "39",
+        "e": "517306",
+        "n": "361905",
+        "name": "Lincolnshire",
+        "gridId": "1",
+        "wgs84Lat": "53.141390",
+        "wgs84Long": "-0.247739"
+      },
+      {
+        "countyID": "40",
+        "e": "332116",
+        "n": "668854",
+        "name": "Lothian",
+        "gridId": "1",
+        "wgs84Lat": "55.907982",
+        "wgs84Long": "-3.087434"
+      },
+      {
+        "countyID": "41",
+        "e": "339203",
+        "n": "399201",
+        "name": "Merseyside",
+        "gridId": "1",
+        "wgs84Lat": "53.485995",
+        "wgs84Long": "-2.917700"
+      },
+      {
+        "countyID": "42",
+        "e": "300404",
+        "n": "192450",
+        "name": "Mid Glamorgan",
+        "gridId": "1",
+        "wgs84Lat": "51.622027",
+        "wgs84Long": "-3.440072"
+      },
+      {
+        "countyID": "43",
+        "e": "598275",
+        "n": "312003",
+        "name": "Norfolk",
+        "gridId": "1",
+        "wgs84Lat": "52.669456",
+        "wgs84Long": "0.930932"
+      },
+      {
+        "countyID": "44",
+        "e": "443458",
+        "n": "468652",
+        "name": "North Yorkshire",
+        "gridId": "1",
+        "wgs84Lat": "54.111916",
+        "wgs84Long": "-1.336746"
+      },
+      {
+        "countyID": "45",
+        "e": "479320",
+        "n": "270157",
+        "name": "Northamptonshire",
+        "gridId": "1",
+        "wgs84Lat": "52.323788",
+        "wgs84Long": "-0.837605"
+      },
+      {
+        "countyID": "46",
+        "e": "397208",
+        "n": "600117",
+        "name": "Northumberland",
+        "gridId": "1",
+        "wgs84Lat": "55.295156",
+        "wgs84Long": "-2.045515"
+      },
+      {
+        "countyID": "47",
+        "e": "467568",
+        "n": "362159",
+        "name": "Nottinghamshire",
+        "gridId": "1",
+        "wgs84Lat": "53.152291",
+        "wgs84Long": "-0.991092"
+      },
+      {
+        "countyID": "48",
+        "e": "347765",
+        "n": "1017397",
+        "name": "Orkney Islands",
+        "gridId": "1",
+        "wgs84Lat": "59.040378",
+        "wgs84Long": "-2.911985"
+      },
+      {
+        "countyID": "49",
+        "e": "449539",
+        "n": "211145",
+        "name": "Oxfordshire",
+        "gridId": "1",
+        "wgs84Lat": "51.796767",
+        "wgs84Long": "-1.283057"
+      },
+      {
+        "countyID": "50",
+        "e": "303612",
+        "n": "268517",
+        "name": "Powys",
+        "gridId": "1",
+        "wgs84Lat": "52.306280",
+        "wgs84Long": "-3.415123"
+      },
+      {
+        "countyID": "51",
+        "e": "353023",
+        "n": "630304",
+        "name": "Scottish Borders",
+        "gridId": "1",
+        "wgs84Lat": "55.564137",
+        "wgs84Long": "-2.746408"
+      },
+      {
+        "countyID": "52",
+        "e": "436044",
+        "n": "1154775",
+        "name": "Shetland",
+        "gridId": "1",
+        "wgs84Lat": "60.275580",
+        "wgs84Long": "-1.350190"
+      },
+      {
+        "countyID": "53",
+        "e": "349835",
+        "n": "306960",
+        "name": "Shropshire",
+        "gridId": "1",
+        "wgs84Lat": "52.658030",
+        "wgs84Long": "-2.743072"
+      },
+      {
+        "countyID": "54",
+        "e": "330827",
+        "n": "134121",
+        "name": "Somerset",
+        "gridId": "1",
+        "wgs84Lat": "51.102200",
+        "wgs84Long": "-2.989329"
+      },
+      {
+        "countyID": "55",
+        "e": "308627",
+        "n": "175135",
+        "name": "South Glamorgan",
+        "gridId": "1",
+        "wgs84Lat": "51.467780",
+        "wgs84Long": "-3.316823"
+      },
+      {
+        "countyID": "56",
+        "e": "444215",
+        "n": "399011",
+        "name": "South Yorkshire",
+        "gridId": "1",
+        "wgs84Lat": "53.485964",
+        "wgs84Long": "-1.335138"
+      },
+      {
+        "countyID": "57",
+        "e": "400063",
+        "n": "325931",
+        "name": "Staffordshire",
+        "gridId": "1",
+        "wgs84Lat": "52.830902",
+        "wgs84Long": "-2.000507"
+      },
+      {
+        "countyID": "58",
+        "e": "202917",
+        "n": "668883",
+        "name": "Strathclyde",
+        "gridId": "1",
+        "wgs84Lat": "55.872686",
+        "wgs84Long": "-5.151733"
+      },
+      {
+        "countyID": "59",
+        "e": "607053",
+        "n": "264873",
+        "name": "Suffolk",
+        "gridId": "1",
+        "wgs84Lat": "52.243078",
+        "wgs84Long": "1.031339"
+      },
+      {
+        "countyID": "60",
+        "e": "513607",
+        "n": "153781",
+        "name": "Surrey",
+        "gridId": "1",
+        "wgs84Lat": "51.271865",
+        "wgs84Long": "-0.372814"
+      },
+      {
+        "countyID": "61",
+        "e": "305567",
+        "n": "741754",
+        "name": "Tayside",
+        "gridId": "1",
+        "wgs84Lat": "56.558227",
+        "wgs84Long": "-3.537982"
+      },
+      {
+        "countyID": "62",
+        "e": "427011",
+        "n": "561778",
+        "name": "Tyne and Wear",
+        "gridId": "1",
+        "wgs84Lat": "54.949927",
+        "wgs84Long": "-1.579813"
+      },
+      {
+        "countyID": "63",
+        "e": "428888",
+        "n": "266974",
+        "name": "Warwickshire",
+        "gridId": "1",
+        "wgs84Lat": "52.300135",
+        "wgs84Long": "-1.577796"
+      },
+      {
+        "countyID": "64",
+        "e": "264572",
+        "n": "197105",
+        "name": "West Glamorgan",
+        "gridId": "1",
+        "wgs84Lat": "51.656369",
+        "wgs84Long": "-3.959189"
+      },
+      {
+        "countyID": "65",
+        "e": "409818",
+        "n": "289577",
+        "name": "West Midlands",
+        "gridId": "1",
+        "wgs84Lat": "52.504005",
+        "wgs84Long": "-1.856790"
+      },
+      {
+        "countyID": "66",
+        "e": "504994",
+        "n": "115720",
+        "name": "West Sussex",
+        "gridId": "1",
+        "wgs84Lat": "50.931384",
+        "wgs84Long": "-0.507295"
+      },
+      {
+        "countyID": "67",
+        "e": "424161",
+        "n": "429697",
+        "name": "West Yorkshire",
+        "gridId": "1",
+        "wgs84Lat": "53.763070",
+        "wgs84Long": "-1.634976"
+      },
+      {
+        "countyID": "68",
+        "e": "96550",
+        "n": "894037",
+        "name": "Western Isles",
+        "gridId": "1",
+        "wgs84Lat": "57.832556",
+        "wgs84Long": "-7.114352"
+      },
+      {
+        "countyID": "69",
+        "e": "406528",
+        "n": "160924",
+        "name": "Wiltshire",
+        "gridId": "1",
+        "wgs84Lat": "51.347361",
+        "wgs84Long": "-1.907656"
+      },
+      {
+        "countyID": "70",
+        "e": "280902",
+        "n": "162635",
+        "name": "Carlow",
+        "gridId": "2",
+        "wgs84Lat": "52.708981",
+        "wgs84Long": "-6.804135"
+      },
+      {
+        "countyID": "71",
+        "e": "238231",
+        "n": "308825",
+        "name": "Cavan",
+        "gridId": "2",
+        "wgs84Lat": "54.027111",
+        "wgs84Long": "-7.417788"
+      },
+      {
+        "countyID": "72",
+        "e": "124908",
+        "n": "179982",
+        "name": "Clare",
+        "gridId": "2",
+        "wgs84Lat": "52.865637",
+        "wgs84Long": "-9.116119"
+      },
+      {
+        "countyID": "73",
+        "e": "125262",
+        "n": "62902",
+        "name": "Cork",
+        "gridId": "2",
+        "wgs84Lat": "51.813737",
+        "wgs84Long": "-9.084800"
+      },
+      {
+        "countyID": "74",
+        "e": "204254",
+        "n": "411063",
+        "name": "Donegal",
+        "gridId": "2",
+        "wgs84Lat": "54.946933",
+        "wgs84Long": "-7.934804"
+      },
+      {
+        "countyID": "75",
+        "e": "316512",
+        "n": "241026",
+        "name": "Dublin",
+        "gridId": "2",
+        "wgs84Lat": "53.406554",
+        "wgs84Long": "-6.249184"
+      },
+      {
+        "countyID": "76",
+        "e": "114841",
+        "n": "234371",
+        "name": "Galway",
+        "gridId": "2",
+        "wgs84Lat": "53.352721",
+        "wgs84Long": "-9.279994"
+      },
+      {
+        "countyID": "77",
+        "e": "90224",
+        "n": "98992",
+        "name": "Kerry",
+        "gridId": "2",
+        "wgs84Lat": "52.132171",
+        "wgs84Long": "-9.604224"
+      },
+      {
+        "countyID": "78",
+        "e": "278404",
+        "n": "215603",
+        "name": "Kildare",
+        "gridId": "2",
+        "wgs84Lat": "53.185199",
+        "wgs84Long": "-6.828301"
+      },
+      {
+        "countyID": "79",
+        "e": "252307",
+        "n": "144490",
+        "name": "Kilkenny",
+        "gridId": "2",
+        "wgs84Lat": "52.549454",
+        "wgs84Long": "-7.230021"
+      },
+      {
+        "countyID": "80",
+        "e": "245468",
+        "n": "193740",
+        "name": "Laois",
+        "gridId": "2",
+        "wgs84Lat": "52.992590",
+        "wgs84Long": "-7.324013"
+      },
+      {
+        "countyID": "81",
+        "e": "200564",
+        "n": "319729",
+        "name": "Leitrim",
+        "gridId": "2",
+        "wgs84Lat": "54.126478",
+        "wgs84Long": "-7.992531"
+      },
+      {
+        "countyID": "82",
+        "e": "152304",
+        "n": "140734",
+        "name": "Limerick",
+        "gridId": "2",
+        "wgs84Lat": "52.516109",
+        "wgs84Long": "-8.703677"
+      },
+      {
+        "countyID": "83",
+        "e": "219960",
+        "n": "277802",
+        "name": "Longford",
+        "gridId": "2",
+        "wgs84Lat": "53.749424",
+        "wgs84Long": "-7.698588"
+      },
+      {
+        "countyID": "84",
+        "e": "305260",
+        "n": "297860",
+        "name": "Louth",
+        "gridId": "2",
+        "wgs84Lat": "53.919342",
+        "wgs84Long": "-6.399073"
+      },
+      {
+        "countyID": "85",
+        "e": "105930",
+        "n": "302891",
+        "name": "Mayo",
+        "gridId": "2",
+        "wgs84Lat": "53.966639",
+        "wgs84Long": "-9.434525"
+      },
+      {
+        "countyID": "86",
+        "e": "279916",
+        "n": "267051",
+        "name": "Meath",
+        "gridId": "2",
+        "wgs84Lat": "53.647127",
+        "wgs84Long": "-6.792672"
+      },
+      {
+        "countyID": "87",
+        "e": "268318",
+        "n": "322935",
+        "name": "Monaghan",
+        "gridId": "2",
+        "wgs84Lat": "54.150754",
+        "wgs84Long": "-6.955579"
+      },
+      {
+        "countyID": "88",
+        "e": "290230",
+        "n": "374728",
+        "name": "Northern Ireland",
+        "gridId": "2",
+        "wgs84Lat": "54.612523",
+        "wgs84Long": "-6.604633"
+      },
+      {
+        "countyID": "89",
+        "e": "227777",
+        "n": "212940",
+        "name": "Offaly",
+        "gridId": "2",
+        "wgs84Lat": "53.166310",
+        "wgs84Long": "-7.585805"
+      },
+      {
+        "countyID": "90",
+        "e": "180253",
+        "n": "272047",
+        "name": "Roscommon",
+        "gridId": "2",
+        "wgs84Lat": "53.697720",
+        "wgs84Long": "-8.300103"
+      },
+      {
+        "countyID": "91",
+        "e": "159008",
+        "n": "328803",
+        "name": "Sligo",
+        "gridId": "2",
+        "wgs84Lat": "54.206352",
+        "wgs84Long": "-8.629363"
+      },
+      {
+        "countyID": "92",
+        "e": "203221",
+        "n": "158312",
+        "name": "Tipperary",
+        "gridId": "2",
+        "wgs84Lat": "52.676153",
+        "wgs84Long": "-7.953487"
+      },
+      {
+        "countyID": "93",
+        "e": "231629",
+        "n": "100463",
+        "name": "Waterford",
+        "gridId": "2",
+        "wgs84Lat": "52.155407",
+        "wgs84Long": "-7.538962"
+      },
+      {
+        "countyID": "94",
+        "e": "233469",
+        "n": "256241",
+        "name": "Westmeath",
+        "gridId": "2",
+        "wgs84Lat": "53.555027",
+        "wgs84Long": "-7.496137"
+      },
+      {
+        "countyID": "95",
+        "e": "295330",
+        "n": "128710",
+        "name": "Wexford",
+        "gridId": "2",
+        "wgs84Lat": "52.401872",
+        "wgs84Long": "-6.600463"
+      },
+      {
+        "countyID": "96",
+        "e": "308103",
+        "n": "190411",
+        "name": "Wicklow",
+        "gridId": "2",
+        "wgs84Lat": "52.953733",
+        "wgs84Long": "-6.392655"
+      }
+    ]
+  }
